@@ -6,7 +6,7 @@
 .container{
   height: 100vh;
   width: 100%;
-  background-image:url("/WebDesign/music page/img/cover.jpg");
+  background-image:url("/img/cover.jpg");
   background-size:cover;
   background-position:center;
   position:relative;
